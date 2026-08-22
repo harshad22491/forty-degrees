@@ -1,3 +1,29 @@
 {
-  "cycles": []
+  "cycles": [
+    {
+      "cycle": 1,
+      "date": "2026-08-22",
+      "pick": {
+        "roaster_id": "halli-berri",
+        "product_id": "heirloom-classic-blend",
+        "reasoning": "The medium roast matches your stated roast preference, and the chocolate, honey, and almond notes fit your nutty-balanced direction for a black moka pot; honey adds a gentle surprise without taking the cup far off-profile. It is INR 499 for 200g, and your whole-bean format lets you grind it for the moka pot."
+      },
+      "alternates": [
+        {
+          "roaster_id": "third-wave",
+          "product_id": "monsoon-malabar-aa",
+          "reasoning": "Its medium roast stays on your roast preference, while earthy, malty, and balanced notes should suit a black moka pot and give your nutty-balanced direction the savory stretch invited by your surprise adventurousness. It is INR 700 for 250g."
+        },
+        {
+          "roaster_id": "araku",
+          "product_id": "signature",
+          "reasoning": "The medium roast remains on-profile and dark chocolate supports a full black moka-pot cup, while green pepper and cherry deliberately explore beyond your usual nutty-balanced direction in keeping with surprise adventurousness. It is INR 540 for 250g."
+        }
+      ],
+      "rating": null,
+      "rated_at": null,
+      "rerolled": false,
+      "reroll_history": []
+    }
+  ]
 }
