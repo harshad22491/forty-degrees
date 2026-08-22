@@ -103,7 +103,7 @@ Append a new object to `history.json`'s `cycles` array:
 - `rerolled`: `false`.
 - `reroll_history`: `[]`.
 
-Commit **directly to `main`**. Only `data/*.json` files should be touched
+Commit **directly to `main`** and **push to origin** (`git push`). Only `data/*.json` files should be touched
 (plus `corrections.json` if step 3 applies). Commit message:
 
 ```

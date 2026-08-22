@@ -71,7 +71,7 @@ Update `data/catalog.json`:
   exact schema (see `AGENTS.md`).
 - Apply any removals from the "pool exhausted" pivot.
 
-Commit **directly to `main`**. Only `data/*.json` files should be touched —
+Commit **directly to `main`** and **push to origin** (`git push`). Only `data/*.json` files should be touched —
 never app code. Commit message:
 
 ```
