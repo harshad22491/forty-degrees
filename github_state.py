@@ -15,7 +15,12 @@ _API = f"https://api.github.com/repos/{REPO}/contents"
 
 
 def _token():
-    """Read Streamlit secrets without making Streamlit a hard dependency here."""
+    """GH_TOKEN from the environment (HF Spaces) or Streamlit secrets."""
+    import os
+
+    token = os.environ.get("GH_TOKEN")
+    if token:
+        return token
     try:
         import streamlit as st
 
