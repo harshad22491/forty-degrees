@@ -235,7 +235,7 @@ the key).
 </html>
 ```
 
-`{{APP_URL}}` is `https://forty-degrees.streamlit.app`. Substitute every
+`{{APP_URL}}` is `https://horse224-forty-degrees.hf.space`. Substitute every
 `{{...}}` placeholder with real values before sending; do not leave any
 placeholder unfilled. Omit the reminder `<tr>` block entirely when step 5
 does not apply (do not send it empty/hidden — remove the markup).

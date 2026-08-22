@@ -7,7 +7,7 @@ import streamlit as st
 
 from github_state import read_json, write_json
 
-APP_URL = "https://forty-degrees.streamlit.app"
+APP_URL = "https://horse224-forty-degrees.hf.space"
 st.set_page_config(page_title="FortyDegrees", page_icon="☕", layout="centered")
 st.markdown("""<style>
 .chip{display:inline-block;background:#3c2415;color:#f4ede4;border-radius:1rem;padding:.2rem .7rem;font-size:.8rem}

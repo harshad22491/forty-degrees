@@ -63,5 +63,5 @@ project runs on.
 - Secrets (`RESEND_API_KEY`, `GH_TOKEN`) live only in the Codex task
   environment / Streamlit secrets — **never** committed to this repo, never
   echoed into logs or commit messages.
-- `APP_URL` constant: `https://forty-degrees.streamlit.app`
+- `APP_URL` constant: `https://horse224-forty-degrees.hf.space`
 - User email: `harshad422@gmail.com`

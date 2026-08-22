@@ -8,7 +8,7 @@ picks one coffee (plus two alternates), commits the cycle to `data/history.json`
 and emails me the recommendation with an order link and one-tap ★1–5 rating links.
 A weekly [research task](prompts/research.md) grows and prunes the catalog.
 
-The [Streamlit app](https://forty-degrees.streamlit.app) hosts the 7-question taste
+The [Streamlit app](https://horse224-forty-degrees.hf.space) hosts the 7-question taste
 quiz, the current pick, rating/reroll actions, and history.
 
 - State: JSON files in `data/` (schemas in [AGENTS.md](AGENTS.md))
