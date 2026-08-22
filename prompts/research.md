@@ -102,3 +102,8 @@ removed: another-roaster (all products delisted, order_url dead)
   candidate this run, leave it out rather than guess.
 - Never print, log, or commit any secrets (`RESEND_API_KEY`, `GH_TOKEN`).
 - See `AGENTS.md` at the repo root for full conventions and schemas.
+
+- A `GH_TOKEN` env var is available for git auth. If a plain `git push` fails on
+  credentials, push with `git push https://x-access-token:${GH_TOKEN}@github.com/harshad22491/forty-degrees.git main`.
+  Never print, log, or commit the token. Do not stop the run over push auth —
+  use this fallback.

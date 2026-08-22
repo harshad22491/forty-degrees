@@ -247,3 +247,8 @@ does not apply (do not send it empty/hidden — remove the markup).
   `YYYY-MM-DD`.
 - Never print, log, or commit `RESEND_API_KEY` or `GH_TOKEN`.
 - See `AGENTS.md` at the repo root for full conventions and schemas.
+
+- A `GH_TOKEN` env var is available for git auth. If a plain `git push` fails on
+  credentials, push with `git push https://x-access-token:${GH_TOKEN}@github.com/harshad22491/forty-degrees.git main`.
+  Never print, log, or commit the token. Do not stop the run over push auth —
+  use this fallback.

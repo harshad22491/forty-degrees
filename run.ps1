@@ -15,6 +15,9 @@ if ($task -eq "recommend" -and -not $env:RESEND_API_KEY) {
     exit 1
 }
 
+# Give the sandboxed agent a git push credential (never printed; see AGENTS.md).
+$env:GH_TOKEN = (gh auth token)
+
 # Pass the prompt via stdin ("-") — PowerShell 5.1 mangles multi-line/quoted args to native exes.
 Get-Content (Join-Path "prompts" ($task + ".md")) -Raw |
     codex exec --sandbox workspace-write -c sandbox_workspace_write.network_access=true -
