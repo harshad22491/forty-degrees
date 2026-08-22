@@ -15,5 +15,6 @@ if ($task -eq "recommend" -and -not $env:RESEND_API_KEY) {
     exit 1
 }
 
-$prompt = Get-Content (Join-Path "prompts" ($task + ".md")) -Raw
-codex exec --sandbox workspace-write -c sandbox_workspace_write.network_access=true $prompt
+# Pass the prompt via stdin ("-") — PowerShell 5.1 mangles multi-line/quoted args to native exes.
+Get-Content (Join-Path "prompts" ($task + ".md")) -Raw |
+    codex exec --sandbox workspace-write -c sandbox_workspace_write.network_access=true -
