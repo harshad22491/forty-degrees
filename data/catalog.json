@@ -1,0 +1,365 @@
+{
+  "updated": "2026-08-22",
+  "roasters": [
+    {
+      "id": "subko",
+      "name": "Subko Coffee Roasters",
+      "city": "Mumbai",
+      "website": "https://www.subko.coffee",
+      "products": [
+        {
+          "id": "kdp-thermal-shock",
+          "name": "Project Giri: Kalledevarapura Estate — Thermal Shock",
+          "roast": "medium",
+          "notes": ["balanced", "smooth", "clean"],
+          "price_inr": 1095,
+          "size_g": 250,
+          "order_url": "https://www.subko.coffee/products/kdp-thermal-shock",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "bombay-island",
+      "name": "Bombay Island Coffee Company",
+      "city": "Mumbai",
+      "website": "https://www.bombayisland.com",
+      "products": [
+        {
+          "id": "vienna-roast",
+          "name": "Vienna Roast",
+          "roast": "dark",
+          "notes": ["dark chocolate", "bittersweet", "smoky"],
+          "price_inr": 600,
+          "size_g": 250,
+          "order_url": "https://www.bombayisland.com/products/vienna-roast",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "toffee-coffee-roasters",
+      "name": "Toffee Coffee Roasters",
+      "city": "Mumbai",
+      "website": "https://toffeecoffeeroasters.com",
+      "products": [
+        {
+          "id": "mullayanagiri-estate",
+          "name": "Mullayanagiri Estate Coffee",
+          "roast": "medium-dark",
+          "notes": ["citrus", "lemon", "pineapple"],
+          "price_inr": 900,
+          "size_g": 250,
+          "order_url": "https://toffeecoffeeroasters.com/products/mullayangiri-estate-coffee",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "blue-tokai",
+      "name": "Blue Tokai Coffee Roasters",
+      "city": "Gurgaon",
+      "website": "https://bluetokaicoffee.com",
+      "products": [
+        {
+          "id": "attikan-estate",
+          "name": "Attikan Estate",
+          "roast": "medium-dark",
+          "notes": ["dark chocolate", "figs", "roasted almond"],
+          "price_inr": 700,
+          "size_g": 250,
+          "order_url": "https://bluetokaicoffee.com/collections/roasted-and-ground-coffee-beans/products/attikan-estate",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "third-wave",
+      "name": "Third Wave Coffee Roasters",
+      "city": "Bengaluru",
+      "website": "https://www.thirdwavecoffeeroasters.com",
+      "products": [
+        {
+          "id": "monsoon-malabar-aa",
+          "name": "Monsoon Malabar AA",
+          "roast": "medium",
+          "notes": ["earthy", "malty", "balanced"],
+          "price_inr": 700,
+          "size_g": 250,
+          "order_url": "https://www.thirdwavecoffeeroasters.com/products/monsoon-malabar-aa",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "araku",
+      "name": "Araku Coffee",
+      "city": "Araku Valley, Andhra Pradesh",
+      "website": "https://www.arakucoffee.in",
+      "products": [
+        {
+          "id": "signature",
+          "name": "Signature",
+          "roast": "medium",
+          "notes": ["green pepper", "cherry", "dark chocolate"],
+          "price_inr": 540,
+          "size_g": 250,
+          "order_url": "https://www.arakucoffee.in/products/signature",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "slay",
+      "name": "SLAY Coffee",
+      "city": "Bengaluru",
+      "website": "https://www.slaycoffee.in",
+      "products": [
+        {
+          "id": "signature-arabica",
+          "name": "SLAY Signature — Superior Arabica",
+          "roast": "medium",
+          "notes": ["smooth", "medium body", "single origin"],
+          "price_inr": 700,
+          "size_g": 250,
+          "order_url": "https://www.slaycoffee.in/collections/roasted-beans-coffee",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "naivo",
+      "name": "Naivo Coffee Company",
+      "city": "Bengaluru",
+      "website": "https://naivo.in",
+      "products": [
+        {
+          "id": "dunduga-estate-naturals",
+          "name": "Dunduga Estate Naturals",
+          "roast": "light-medium",
+          "notes": ["passion fruit", "pistachio", "bright"],
+          "price_inr": 650,
+          "size_g": 250,
+          "order_url": "https://naivo.in/product/dunduga-estate-naturals/",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "the-indian-bean",
+      "name": "The Indian Bean",
+      "city": "Mumbai",
+      "website": "https://theindianbean.com",
+      "products": [
+        {
+          "id": "rea-medium-dark",
+          "name": "REA — Medium Dark Roast",
+          "roast": "medium-dark",
+          "notes": ["full-bodied", "low acidity", "espresso-friendly"],
+          "price_inr": 590,
+          "size_g": 250,
+          "order_url": "https://theindianbean.com/collections/frontpage/products/rea-medium-dark-roast/",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "devans",
+      "name": "Devan's Coffee",
+      "city": "New Delhi",
+      "website": "https://devans.in",
+      "products": [
+        {
+          "id": "arabica-plantation-aa",
+          "name": "Arabica Plantation — AA Coffee",
+          "roast": "medium",
+          "notes": ["moderate acidity", "tangy", "full body"],
+          "price_inr": 500,
+          "size_g": 250,
+          "order_url": "https://devans.in/products/arabica-plantation-coffee-1",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "curious-life",
+      "name": "Curious Life Coffee Roasters",
+      "city": "Jaipur",
+      "website": "https://curiouslifecoffee.com",
+      "products": [
+        {
+          "id": "gundikhan-natural-filter",
+          "name": "Gundikhan Natural Lot — Filter",
+          "roast": "light",
+          "notes": ["prune", "apple", "mild rum"],
+          "price_inr": 950,
+          "size_g": 250,
+          "order_url": "https://curiouslifecoffee.com/product/gundikhan-natural-lot-272-filter/",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "dope-coffee",
+      "name": "Dope Coffee Roasters",
+      "city": "Bengaluru",
+      "website": "https://dopecoffee.in",
+      "products": [
+        {
+          "id": "dark-matter",
+          "name": "Dark Matter",
+          "roast": "medium-dark",
+          "notes": ["dark chocolate", "smoky", "nutty"],
+          "price_inr": 620,
+          "size_g": 250,
+          "order_url": "https://dopecoffee.in/collections/all/products/dark-matter",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "corridor-seven",
+      "name": "Corridor Seven Coffee Roasters",
+      "city": "Nagpur",
+      "website": "https://corridorseven.coffee",
+      "products": [
+        {
+          "id": "vienna-roast",
+          "name": "Vienna Roast",
+          "roast": "dark",
+          "notes": ["smoky", "toasty", "caramelized sugar"],
+          "price_inr": 640,
+          "size_g": 250,
+          "order_url": "https://corridorseven.coffee/products/vienna",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "savorworks",
+      "name": "Savorworks Coffee Chocolate",
+      "city": "Delhi",
+      "website": "https://www.savorworksroasters.com",
+      "products": [
+        {
+          "id": "riverdale-medium-dark",
+          "name": "Riverdale Medium-Dark Roast",
+          "roast": "medium-dark",
+          "notes": ["gooseberry", "raisin", "toffee"],
+          "price_inr": 675,
+          "size_g": 250,
+          "order_url": "https://www.savorworksroasters.com/products/riverdale-medium-to-dark-roast",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "rossette",
+      "name": "Rossette Coffee Lab",
+      "city": "Delhi",
+      "website": "https://rossettecoffee.com",
+      "products": [
+        {
+          "id": "basankhan-fermented-washed",
+          "name": "Basankhan Fermented Washed",
+          "roast": "medium-dark",
+          "notes": ["fermented", "chocolate", "smooth"],
+          "price_inr": 700,
+          "size_g": 200,
+          "order_url": "https://rossettecoffee.com/products/basankhan-fermented-wash",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "quick-brown-fox",
+      "name": "Quick Brown Fox Coffee Roasters",
+      "city": "Delhi",
+      "website": "https://qbfcoffee.com",
+      "products": [
+        {
+          "id": "middle-ground-espresso",
+          "name": "Middle Ground Espresso Blend",
+          "roast": "medium-dark",
+          "notes": ["stone fruit", "toffee", "chocolate"],
+          "price_inr": 695,
+          "size_g": 200,
+          "order_url": "https://qbfcoffee.com/collections/single-estate-coffee/products/middle-ground-espresso-blend",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "marcs-coffees",
+      "name": "Marc's Coffees",
+      "city": "Auroville",
+      "website": "https://coffeeideas.in",
+      "products": [
+        {
+          "id": "mahseers-hope",
+          "name": "Mahseer's Hope",
+          "roast": "light",
+          "notes": ["stone fruit", "citrus", "chocolate"],
+          "price_inr": 400,
+          "size_g": 250,
+          "order_url": "https://coffeeideas.in/product/our-coffees/marcs-single-estate-origin/light-roast-marcs-single-estate-orgin/the-mahseer/",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "halli-berri",
+      "name": "Halli Berri Coffee",
+      "city": "Chikmagalur",
+      "website": "https://halliberri.com",
+      "products": [
+        {
+          "id": "heirloom-classic-blend",
+          "name": "Heirloom Brew-Tiful Classic Blend",
+          "roast": "medium",
+          "notes": ["chocolate", "honey", "almond"],
+          "price_inr": 499,
+          "size_g": 200,
+          "order_url": "https://halliberri.com/product/heirloom-classic-blend/",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "ainmane",
+      "name": "Ainmane Coffee",
+      "city": "Coorg",
+      "website": "https://www.ainmane.com",
+      "products": [
+        {
+          "id": "robusta-of-coorg",
+          "name": "Robusta of Coorg",
+          "roast": "medium",
+          "notes": ["robust", "earthy", "full-bodied"],
+          "price_inr": 350,
+          "size_g": 250,
+          "order_url": "https://www.ainmane.com/robusta-of-coorg.html",
+          "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "zenforest",
+      "name": "Zenforest Coffee Roasters",
+      "city": "Bengaluru",
+      "website": "https://zenforestcoffee.com",
+      "products": [
+        {
+          "id": "vanilla-whispers",
+          "name": "Vanilla Whispers",
+          "roast": "light-medium",
+          "notes": ["vanilla", "caramel", "floral"],
+          "price_inr": 860,
+          "size_g": 220,
+          "order_url": "https://zenforestcoffee.com/product/vanilla-whispers/",
+          "verified": "2026-08-22"
+        }
+      ]
+    }
+  ]
+}
