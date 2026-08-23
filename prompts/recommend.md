@@ -103,7 +103,7 @@ Append a new object to `history.json`'s `cycles` array:
 - `rerolled`: `false`.
 - `reroll_history`: `[]`.
 
-Commit **directly to `main`** and **push to origin** (`git push`). Only `data/*.json` files should be touched
+Commit **directly to `main`** and **push to origin** (`git push origin HEAD:main`; if credentials fail use the GH_TOKEN fallback below). Only `data/*.json` files should be touched
 (plus `corrections.json` if step 3 applies). Commit message:
 
 ```
@@ -249,6 +249,6 @@ does not apply (do not send it empty/hidden — remove the markup).
 - See `AGENTS.md` at the repo root for full conventions and schemas.
 
 - A `GH_TOKEN` env var is available for git auth. If a plain `git push` fails on
-  credentials, push with `git push https://x-access-token:${GH_TOKEN}@github.com/harshad22491/forty-degrees.git main`.
+  credentials, push with `git push https://x-access-token:${GH_TOKEN}@github.com/harshad22491/forty-degrees.git HEAD:main`.
   Never print, log, or commit the token. Do not stop the run over push auth —
   use this fallback.
