@@ -24,6 +24,31 @@
       "rated_at": null,
       "rerolled": false,
       "reroll_history": []
+    },
+    {
+      "cycle": 2,
+      "date": "2026-09-15",
+      "pick": {
+        "roaster_id": "araku",
+        "product_id": "signature",
+        "reasoning": "Signature keeps your preferred medium roast, while dark chocolate anchors the cherry and green-pepper stretch beyond your nutty-balanced direction for a black moka-pot cup. Your surprise setting favors exploring a roaster not yet recorded as a primary pick: Araku was only an alternate in cycle 1, and that cycle's Halli Berri pick remains unrated, so there is no positive or negative rating to infer. The whole-bean 250g pouch suits your format preference and is currently INR 670 on the roaster's store (the catalog still lists INR 540)."
+      },
+      "alternates": [
+        {
+          "roaster_id": "third-wave",
+          "product_id": "monsoon-malabar-aa",
+          "reasoning": "Its medium roast matches your preference, and balanced, malty notes keep your black moka-pot cup near your nutty-balanced direction while earthiness supplies the savory exploration invited by your surprise setting. It was an alternate in cycle 1 but has no recorded pick, rating, or reroll, making it an unexplored option in your history; the whole-bean bag matches your format preference at INR 700 for 250g."
+        },
+        {
+          "roaster_id": "blue-tokai",
+          "product_id": "attikan-estate",
+          "reasoning": "Roasted almond directly matches your nutty-balanced direction, with dark chocolate and figs offering a new note combination relative to cycle 1's Halli Berri pick, as invited by your surprise setting. Its medium-dark roast is a darker stretch from your preferred medium for black moka-pot brewing, so it ranks behind the two medium-roast choices; at INR 700 for 250g, choose whole beans to match your format preference."
+        }
+      ],
+      "rating": null,
+      "rated_at": null,
+      "rerolled": false,
+      "reroll_history": []
     }
   ]
 }
