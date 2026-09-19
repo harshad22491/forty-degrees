@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-09-19",
   "roasters": [
     {
       "id": "subko",
@@ -358,6 +358,224 @@
           "size_g": 220,
           "order_url": "https://zenforestcoffee.com/product/vanilla-whispers/",
           "verified": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "id": "kapi-kottai",
+      "name": "Kāpikottai",
+      "city": "Chennai",
+      "website": "https://kapikottai.coffee",
+      "products": [
+        {
+          "id": "kapi-kottai-arabhi",
+          "name": "Ārabhi",
+          "roast": "light-medium",
+          "notes": [
+            "apricot",
+            "passion fruit",
+            "praline"
+          ],
+          "price_inr": 850,
+          "size_g": 250,
+          "order_url": "https://kapikottai.coffee/products/arabhi",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "grey-soul",
+      "name": "Grey Soul Coffee Roasters",
+      "city": "Pune",
+      "website": "https://greysoul.coffee",
+      "products": [
+        {
+          "id": "grey-soul-odisha-naturals",
+          "name": "Odisha Naturals (Light Roast)",
+          "roast": "light",
+          "notes": [
+            "mandarin",
+            "raspberry",
+            "plum"
+          ],
+          "price_inr": 799,
+          "size_g": 200,
+          "order_url": "https://greysoul.coffee/products/odisha-naturals-light-med",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "black-baza",
+      "name": "Black Baza Coffee Co.",
+      "city": "Bengaluru",
+      "website": "https://www.blackbazacoffee.com",
+      "products": [
+        {
+          "id": "black-baza-frogmouth",
+          "name": "Frogmouth",
+          "roast": "medium",
+          "notes": [
+            "guava",
+            "amla",
+            "walnuts"
+          ],
+          "price_inr": 650,
+          "size_g": 250,
+          "order_url": "https://www.blackbazacoffee.com/products/frogmouth",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "bloom-coffee-roasters",
+      "name": "Bloom Coffee Roasters",
+      "city": "Panchkula",
+      "website": "https://bloomcoffeeroasters.in",
+      "products": [
+        {
+          "id": "bloom-coffee-roasters-hoysala-estate-washed",
+          "name": "Hoysala Estate - Washed",
+          "roast": "medium-dark",
+          "notes": [
+            "chocolate",
+            "citrus fruit",
+            "caramel"
+          ],
+          "price_inr": 600,
+          "size_g": 250,
+          "order_url": "https://bloomcoffeeroasters.in/products/hoysala-estate",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "fraction-9",
+      "name": "Fraction 9 Coffee Roasters",
+      "city": "Chikmagalur",
+      "website": "https://www.fraction9coffee.com",
+      "products": [
+        {
+          "id": "fraction-9-breakfast-roast",
+          "name": "Breakfast Roast",
+          "roast": "medium",
+          "notes": [
+            "hazelnut",
+            "nutty",
+            "plum"
+          ],
+          "price_inr": 619,
+          "size_g": 250,
+          "order_url": "https://www.fraction9coffee.com/products/copy-of-premium-coffee-powder-breakfast-roast-250gm-by-fraction-9-coffee-roasters",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "maverick-and-farmer",
+      "name": "Maverick & Farmer",
+      "city": "Bengaluru",
+      "website": "https://www.maverickandfarmer.com",
+      "products": [
+        {
+          "id": "maverick-and-farmer-balanoor-plantations-chennekal-estate",
+          "name": "Balanoor Plantations - Chennekal Estate",
+          "roast": "medium",
+          "notes": [
+            "tangerine"
+          ],
+          "price_inr": 550,
+          "size_g": 250,
+          "order_url": "https://www.maverickandfarmer.com/products/balanoor-plantations-chennekal-estate",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "bili-hu",
+      "name": "Bili Hu",
+      "city": "Noida",
+      "website": "https://bilihu.in",
+      "products": [
+        {
+          "id": "bili-hu-sandalwood-estate",
+          "name": "Sandalwood Estate",
+          "roast": "medium",
+          "notes": [
+            "orange marmalade",
+            "sweet prune",
+            "dark chocolate"
+          ],
+          "price_inr": 849,
+          "size_g": 250,
+          "order_url": "https://bilihu.in/products/sandalwood-estate",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "nandan-coffee",
+      "name": "Nandan Coffee",
+      "city": "Kodaikanal",
+      "website": "https://www.nandancoffee.com",
+      "products": [
+        {
+          "id": "nandan-coffee-royale-medium-roast",
+          "name": "Royale Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "caramel",
+            "milk chocolate",
+            "treacle"
+          ],
+          "price_inr": 650,
+          "size_g": 250,
+          "order_url": "https://www.nandancoffee.com/products/nandan-royale-medium-roast",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "tulum-coffee",
+      "name": "Tulum Coffee",
+      "city": "Mumbai",
+      "website": "https://www.tulum.coffee",
+      "products": [
+        {
+          "id": "tulum-coffee-thogarihunkal-washed",
+          "name": "Thogarihunkal Washed",
+          "roast": "medium",
+          "notes": [
+            "chocolate",
+            "jaggery",
+            "peanut chikki"
+          ],
+          "price_inr": 685,
+          "size_g": 250,
+          "order_url": "https://www.tulum.coffee/products/thogarihunkal-medium-roasted-coffee",
+          "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "el-bueno",
+      "name": "El Bueno Coffee Roasters",
+      "city": "Delhi",
+      "website": "https://elbuenocoffee.com",
+      "products": [
+        {
+          "id": "el-bueno-ratnagiri-estate-culture-processed-naturals-cul-p",
+          "name": "Ratnagiri Estate - Culture Processed Naturals - CUL-P",
+          "roast": "medium",
+          "notes": [
+            "dark cherry",
+            "brown sugar",
+            "cabernet"
+          ],
+          "price_inr": 880,
+          "size_g": 250,
+          "order_url": "https://elbuenocoffee.com/products/ratnagiri-estate-culture-processed-naturals-cul-p",
+          "verified": "2026-09-19"
         }
       ]
     }
