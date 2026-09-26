@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-26",
   "roasters": [
     {
       "id": "subko",
@@ -576,6 +576,224 @@
           "size_g": 250,
           "order_url": "https://elbuenocoffee.com/products/ratnagiri-estate-culture-processed-naturals-cul-p",
           "verified": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "id": "brewclan-coffee-roasters",
+      "name": "BrewClan Coffee Roasters",
+      "city": "New Delhi",
+      "website": "https://brewclancoffee.com",
+      "products": [
+        {
+          "id": "brewclan-ratnagiri-estate-yc-17",
+          "name": "Ratnagiri Estate YC-17 Culture Process Naturals",
+          "roast": "light",
+          "notes": [
+            "jasmine tea",
+            "raspberry",
+            "nutty"
+          ],
+          "price_inr": 949,
+          "size_g": 250,
+          "order_url": "https://brewclancoffee.com/products/ratnagiri-estate-yc-17-culture-process-naturals-100-arabica-coffee-beans",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "baarbara-coffee",
+      "name": "Baarbara Coffee",
+      "city": "Chikkamagaluru",
+      "website": "https://www.baarbaracoffee.com",
+      "products": [
+        {
+          "id": "baarbara-vienna-dark-roast",
+          "name": "Vienna Dark Roasted Coffee Beans",
+          "roast": "dark",
+          "notes": [
+            "dark chocolate"
+          ],
+          "price_inr": 650,
+          "size_g": 250,
+          "order_url": "https://www.baarbaracoffee.com/products/vienna-dark-roast-roasted-whole-beans",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "7000-steps",
+      "name": "7000 Steps",
+      "city": "Shillong",
+      "website": "https://www.7000steps.com",
+      "products": [
+        {
+          "id": "7000-steps-meghalaya-robusta-medium",
+          "name": "Meghalaya Single Origin Robusta - Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "citrus",
+            "roasted nuts",
+            "dark chocolate"
+          ],
+          "price_inr": 799,
+          "size_g": 250,
+          "order_url": "https://www.7000steps.com/products/single-origin-robusta-meghalaya-250g?variant=45117924835525",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "roastery-coffee-house",
+      "name": "Roastery Coffee House",
+      "city": "Hyderabad",
+      "website": "https://roasterycoffee.co.in",
+      "products": [
+        {
+          "id": "roastery-coffee-house-mandalkhan-estate",
+          "name": "Mandalkhan Estate",
+          "roast": "medium",
+          "notes": [
+            "caramel",
+            "chocolate",
+            "orange berry"
+          ],
+          "price_inr": 650,
+          "size_g": 250,
+          "order_url": "https://roasterycoffee.co.in/product/mandalkhan-estate-2/",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "korebi-coffee",
+      "name": "Korebi Coffee",
+      "city": "Ahmedabad",
+      "website": "https://korebi.coffee",
+      "products": [
+        {
+          "id": "korebi-tropical-haze",
+          "name": "Tropical Haze",
+          "roast": "medium",
+          "notes": [
+            "citrus",
+            "floral",
+            "sweet"
+          ],
+          "price_inr": 749,
+          "size_g": 250,
+          "order_url": "https://korebi.coffee/products/tropical-haze-medium-roast-coffee",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "half-light",
+      "name": "Half Light Coffee Roasters",
+      "city": "Jaipur",
+      "website": "https://halflightcoffee.com",
+      "products": [
+        {
+          "id": "half-light-ms-estate-medium",
+          "name": "MS Estate - Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "berries",
+            "peach",
+            "walnut"
+          ],
+          "price_inr": 700,
+          "size_g": 250,
+          "order_url": "https://halflightcoffee.com/products/ms-estate?variant=40548233937084",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "genetics-coffee",
+      "name": "Genetics Coffee",
+      "city": "Bengaluru",
+      "website": "https://genetics.coffee",
+      "products": [
+        {
+          "id": "genetics-coffee-blossom-naturals",
+          "name": "Blossom Naturals - 96hrs Culture Process",
+          "roast": "light-medium",
+          "notes": [
+            "rose florals",
+            "lychee",
+            "nectarine"
+          ],
+          "price_inr": 1100,
+          "size_g": 200,
+          "order_url": "https://genetics.coffee/products/blossom-naturals?variant=49719620403478",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "caffena",
+      "name": "Caffena Coffee",
+      "city": "New Delhi",
+      "website": "https://caffenacoffee.com",
+      "products": [
+        {
+          "id": "caffena-nikola",
+          "name": "Nikola - Baarbara Estate Naturals",
+          "roast": "light-medium",
+          "notes": [
+            "jasmine",
+            "oranges",
+            "nuts"
+          ],
+          "price_inr": 649,
+          "size_g": 250,
+          "order_url": "https://caffenacoffee.com/products/nikola-100-arabica?variant=30310613942372",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "ikkis",
+      "name": "Ikkis Coffee Roasters",
+      "city": "Chandigarh",
+      "website": "https://ikkis.coffee",
+      "products": [
+        {
+          "id": "ikkis-flavor-flight",
+          "name": "Flavor Flight",
+          "roast": "light-medium",
+          "notes": [
+            "mango",
+            "raisins",
+            "black tea"
+          ],
+          "price_inr": 920,
+          "size_g": 250,
+          "order_url": "https://ikkis.coffee/products/flavor-flight?variant=46355588219031",
+          "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "home-blend",
+      "name": "Home Blend Coffee Roasters",
+      "city": "Noida",
+      "website": "https://homeblendcoffee.com",
+      "products": [
+        {
+          "id": "home-blend-unakki-estate-medium",
+          "name": "Unakki Estate - Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "cane sugar",
+            "apricot",
+            "honey"
+          ],
+          "price_inr": 625,
+          "size_g": 250,
+          "order_url": "https://homeblendcoffee.com/products/whole-bean-unakki-estate?variant=41053553131591",
+          "verified": "2026-09-26"
         }
       ]
     }
