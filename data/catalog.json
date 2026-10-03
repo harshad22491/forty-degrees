@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-10-03",
   "roasters": [
     {
       "id": "subko",
@@ -794,6 +794,223 @@
           "size_g": 250,
           "order_url": "https://homeblendcoffee.com/products/whole-bean-unakki-estate?variant=41053553131591",
           "verified": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "kafeido",
+      "name": "Kafeido Roasters",
+      "city": "Gurgaon",
+      "website": "https://www.kafeido.com",
+      "products": [
+        {
+          "id": "kafeido-ratnagiri-estate-anaerobic-thermal-shock",
+          "name": "Ratnagiri Estate - Naturals, Anaerobic Thermal Shock",
+          "roast": "medium",
+          "notes": [
+            "mandarin",
+            "red apple",
+            "papaya"
+          ],
+          "price_inr": 999,
+          "size_g": 150,
+          "order_url": "https://www.kafeido.com/products/ratnagiri-estate-anaerobic-thermal-shock-medium-roast",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "broot-coffee",
+      "name": "Broot Coffee Roasters",
+      "city": "New Delhi",
+      "website": "https://brootcoffee.com",
+      "products": [
+        {
+          "id": "broot-coffee-ratnagiri-washed-cut",
+          "name": "Ratnagiri Washed Cut",
+          "roast": "medium",
+          "notes": [
+            "cocoa",
+            "caramel",
+            "toasted sweetness"
+          ],
+          "price_inr": 900,
+          "size_g": 250,
+          "order_url": "https://brootcoffee.com/products/ratnagiri-washed-cut",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "humble-express",
+      "name": "Humble Express Coffee Roasters",
+      "city": "Mumbai",
+      "website": "https://www.humbleexpress.com",
+      "products": [
+        {
+          "id": "humble-express-am-pm",
+          "name": "AM : PM",
+          "roast": "medium-dark",
+          "notes": [
+            "milk chocolate",
+            "nutty",
+            "toffee"
+          ],
+          "price_inr": 680,
+          "size_g": 250,
+          "order_url": "https://www.humbleexpress.com/products/am-pm-medium-dark-roast-coffee",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "beachville-coffee",
+      "name": "Beachville Coffee Roasters",
+      "city": "Chennai",
+      "website": "https://beachvillecoffee.com",
+      "products": [
+        {
+          "id": "beachville-coffee-yele-attikan-estate",
+          "name": "Yele Attikan Estate",
+          "roast": "medium",
+          "notes": [
+            "milk chocolate",
+            "mandarin"
+          ],
+          "price_inr": 800,
+          "size_g": 250,
+          "order_url": "https://beachvillecoffee.com/products/yele-attikan-estate",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "siolim",
+      "name": "Siolim Specialty Coffee Roasters",
+      "city": "Indore",
+      "website": "https://www.siolim.coffee",
+      "products": [
+        {
+          "id": "siolim-ratnagiri-estate-washed",
+          "name": "Ratnagiri Estate Washed Coffee",
+          "roast": "medium",
+          "notes": [
+            "milk chocolate",
+            "cherry fruit",
+            "raisins"
+          ],
+          "price_inr": 790,
+          "size_g": 250,
+          "order_url": "https://www.siolim.coffee/products/ratnagiri-washed?variant=49321171321149",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "okiru",
+      "name": "Okiru Coffee Roasters",
+      "city": "Zirakpur",
+      "website": "https://okiru.in",
+      "products": [
+        {
+          "id": "okiru-tora",
+          "name": "Tora",
+          "roast": "medium-dark",
+          "notes": [
+            "chocolate",
+            "nuts",
+            "malt"
+          ],
+          "price_inr": 799,
+          "size_g": 250,
+          "order_url": "https://okiru.in/products/tora",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "kup",
+      "name": "KUP Coffee Roasters",
+      "city": "Chennai",
+      "website": "https://www.kup.world",
+      "products": [
+        {
+          "id": "kup-the-thinker",
+          "name": "The Thinker",
+          "roast": "medium",
+          "notes": [
+            "chocolate",
+            "almond",
+            "caramel"
+          ],
+          "price_inr": 640,
+          "size_g": 250,
+          "order_url": "https://www.kup.world/products/the-thinker-100-arabica-medium-roasted-coffee-beans-250-grams",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "seven-beans",
+      "name": "Seven Beans Coffee Company",
+      "city": "Bengaluru",
+      "website": "https://sevenbeans.co",
+      "products": [
+        {
+          "id": "seven-beans-arabica-aaa-medium",
+          "name": "Arabica AAA Single Origin Chikmagalur - Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "citrus",
+            "ginger"
+          ],
+          "price_inr": 550,
+          "size_g": 250,
+          "order_url": "https://sevenbeans.co/products/seven-beans-100-arabica-single-origin-gourmet-indian-coffee?variant=13156777820213",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "mokka-farms",
+      "name": "MokkaFarms",
+      "city": "Bengaluru",
+      "website": "https://www.mokkafarms.com",
+      "products": [
+        {
+          "id": "mokka-farms-arabica-sundried-medium",
+          "name": "100% Arabica A/AA Sundried - Medium Roast",
+          "roast": "medium",
+          "notes": [
+            "fruity",
+            "chocolate"
+          ],
+          "price_inr": 400,
+          "size_g": 250,
+          "order_url": "https://www.mokkafarms.com/products/bean100ara?variant=42883074261175",
+          "verified": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "black-pole",
+      "name": "Black Pole Coffee",
+      "city": "New Delhi",
+      "website": "https://blackpolecoffee.com",
+      "products": [
+        {
+          "id": "black-pole-arabica-heights",
+          "name": "Arabica Heights",
+          "roast": "medium",
+          "notes": [
+            "lemon zest",
+            "lime",
+            "fruity caramel"
+          ],
+          "price_inr": 750,
+          "size_g": 250,
+          "order_url": "https://blackpolecoffee.com/products/arabica-heights?variant=48491140808941",
+          "verified": "2026-10-03"
         }
       ]
     }
